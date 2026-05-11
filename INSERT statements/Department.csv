@@ -1,0 +1,13 @@
+Dname,Dnumber,Course_id,course
+Comp_Sci,CS-1,CS-101,Cyber security
+Comp_Sci,CS-1,CS-102,Comp_network
+Comp_Sci,CS-1,CS-103,Oper_Sys
+Mechanical,ME-1,ME-101,Fluid_Mechanics
+Mechanical,ME-1,ME-102,Oper_Research
+It_Tech,IT-1,IT-101,Auto_Theory
+It_Tech,IT-1,IT-102,Java_Progmaming
+Biology,BIO,BIO-101,Genetics
+Elec&Comun,ECE-1,ECE-101,VLSI-Design
+Elec&Comun,ECE-1,ECE-102,DSP
+Elec&Comun,ECE-1,ECE-103,A&W_Propagation
+Electrical_Eng,EEE-1,EEE-101,Electrical_Machine
