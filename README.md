@@ -1,6 +1,15 @@
-# 🎓 Student-Mentor Database System
+### 🗄️ Student-Mentor Relational Database System
+<p align="center">
+  <a href="https://github.com/asgeek96/Student-Mentor-Database">
+    <img width="900" alt="Student-Mentor Database ER Diagram" src="https://github.com/asgeek96/Student-Mentor_Database/blob/58b4382881641886de3415bc147080feb0feaac5/ERDiagram.png">
+  </a>
+</p>
+MySQL relational database managing 100 students, 12 mentors & 12 departments — designed to 3NF with full referential integrity  
+**SQL:** DDL schema design, M:N junction table, 5-table JOINs, GROUP BY aggregations, grade-based filtering  
+**Key Concept:** M:N mentor-student relationship resolved via `mentor_has_student` junction table with composite primary key  
+ER diagram (MySQL Workbench), normalization to 3NF, foreign key constraints across all 4 tables  
 
-A relational database system designed to manage student-mentor assignments across academic departments. Built using **MySQL**, this project demonstrates core database concepts including schema design, normalization, foreign key relationships, and data integrity.
+🔗 [View Project](https://github.com/asgeek96/Student-Mentor-Database) · 📖 [Read Case Study](https://github.com/asgeek96/Student-Mentor_Database/blob/58b4382881641886de3415bc147080feb0feaac5/docs/case-study.md)
 
 ---
 
