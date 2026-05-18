@@ -1,0 +1,13 @@
+Dname,Dnumber,Course_id,Course
+Computer_Science,CS-1,CS-101,Cyber_Security
+Computer_Science,CS-1,CS-102,Computer_Networks
+Computer_Science,CS-1,CS-103,Operating_Systems
+Mechanical_Engg,ME-1,ME-101,Fluid_Mechanics
+Mechanical_Engg,ME-1,ME-102,Operations_Research
+Information_Tech,IT-1,IT-101,Automata_Theory
+Information_Tech,IT-1,IT-102,Java_Programming
+Biology,BIO-1,BIO-101,Genetics
+Electronics_Comm,ECE-1,ECE-101,VLSI_Design
+Electronics_Comm,ECE-1,ECE-102,Digital_Signal_Processing
+Electronics_Comm,ECE-1,ECE-103,Antenna_Wave_Propagation
+Electrical_Engg,EEE-1,EEE-101,Electrical_Machines

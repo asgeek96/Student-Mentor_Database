@@ -1,0 +1,101 @@
+Mentor_MID,Student_SID,Remarks,Year,Description
+2,602,C+,2001,Moderate performance
+8,1711,B+,2001,"Struggling, additional support needed"
+1,1994,B-,2002,Passed with low performance
+4,3516,C+,2002,"Struggling, additional support needed"
+10,1481,B+,2002,"Average, needs more effort"
+12,102,F-,2002,Needs significant improvement
+12,2576,B-,2002,"Below expectations, needs guidance"
+1,1339,A-,2003,"Average, needs more effort"
+4,1954,A,2003,Moderate performance
+8,125,B+,2003,Consistent performer
+9,945,B+,2004,Solid performance overall
+9,2880,B-,2004,Passed with low performance
+10,145,A++,2004,Outstanding academic performance
+10,2543,C,2004,Moderate performance
+11,1851,A,2004,Good understanding of concepts
+11,3267,B+,2004,Good understanding of concepts
+1,202,A++,2005,Exceptional student
+1,2945,A-,2005,Excellent progress shown
+7,545,A-,2005,Strong grasp of subject
+8,1767,D+,2005,"Below average, requires mentoring"
+10,1812,E+,2005,Good understanding of concepts
+10,3115,C,2005,Good understanding of concepts
+2,1448,B,2006,Passed with low performance
+2,1871,A,2006,"Below expectations, needs guidance"
+3,1625,B-,2006,Good academic record
+9,954,D+,2006,"Below expectations, needs guidance"
+9,3350,D,2006,Needs significant improvement
+11,245,A-,2006,Very good performance
+11,1659,A+,2006,"Failed, re-evaluation required"
+12,3415,A++,2006,Good understanding of concepts
+3,1554,B-,2007,Needs significant improvement
+5,1603,B+,2007,Good academic record
+7,3041,B-,2007,Good academic record
+9,845,B+,2007,"Good understanding, can improve"
+9,3006,A-,2007,Very good performance
+11,302,C+,2007,"Average, needs more effort"
+12,2272,B+,2007,"Below average, requires mentoring"
+12,2702,B+,2007,"Average, needs more effort"
+2,745,A-,2008,Excellent progress shown
+2,3198,B+,2008,Good academic record
+5,345,E+,2008,"Below average, requires mentoring"
+1,2448,E+,2009,"Below expectations, needs guidance"
+5,445,B+,2009,Good academic record
+7,1916,D+,2009,Very good performance
+7,2337,D+,2009,"Below expectations, needs guidance"
+8,1234,B+,2009,Good understanding of concepts
+8,3021,A,2009,"Below average, requires mentoring"
+9,2186,E+,2009,"Below expectations, needs guidance"
+10,2107,B,2009,Strong grasp of subject
+1,2316,C+,2010,Consistent performer
+6,487,C+,2010,Satisfactory performance
+10,3579,C,2010,"Struggling, additional support needed"
+1,2003,B+,2011,"Struggling, additional support needed"
+1,2078,A+,2011,Consistent performer
+2,2976,A++,2011,Satisfactory performance
+2,3231,C,2011,"Below expectations, needs guidance"
+3,2136,E+,2011,"Failed, re-evaluation required"
+5,2636,A-,2011,Good understanding of concepts
+1,2042,B,2012,Strong grasp of subject
+3,645,E+,2012,"Struggling, additional support needed"
+4,1509,B,2012,Strong grasp of subject
+6,2381,B,2012,"Struggling, additional support needed"
+9,2053,D,2012,"Struggling, additional support needed"
+12,1024,D+,2012,Passed with low performance
+3,1740,A,2013,Consistent performer
+4,654,F-,2013,"Failed, re-evaluation required"
+4,2622,C,2013,"Struggling, additional support needed"
+6,2749,B-,2013,Good academic record
+7,2683,D,2013,"Below expectations, needs guidance"
+7,1701,A+,2014,Strong grasp of subject
+11,3466,A,2014,Strong grasp of subject
+3,2981,A,2015,Excellent progress shown
+5,1752,C+,2015,"Average, needs more effort"
+8,2087,B+,2015,Strong grasp of subject
+9,3293,C+,2017,Outstanding academic performance
+10,3164,A++,2017,"Struggling, additional support needed"
+11,1471,E+,2017,Strong grasp of subject
+1,1376,B-,2018,Strong grasp of subject
+4,1884,E+,2018,Passed with low performance
+4,2390,A+,2018,Consistent performer
+5,2837,F-,2018,Satisfactory performance
+6,2604,B+,2018,Moderate performance
+7,3085,C+,2018,Strong grasp of subject
+7,3530,C+,2018,Good understanding of concepts
+12,3445,D,2018,Moderate performance
+2,2921,C+,2019,Passed with low performance
+5,3389,A-,2019,Excellent progress shown
+3,1300,B+,2020,Good academic record
+5,3315,B-,2020,Strong grasp of subject
+6,3497,B+,2020,Passed with low performance
+10,1409,A,2020,Consistent performer
+1,2061,A-,2021,Satisfactory performance
+5,2912,A+,2021,Outstanding academic performance
+8,2498,B-,2021,Moderate performance
+10,2795,B-,2021,"Failed, re-evaluation required"
+2,2225,B,2022,Good academic record
+4,1427,D+,2022,Consistent performer
+4,2263,B+,2022,Needs significant improvement
+5,3307,B+,2022,Very good performance
+11,2436,B-,2022,Good academic record
